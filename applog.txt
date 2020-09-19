@@ -1,0 +1,163 @@
+INFO    2020-09-18 22:36:55,173 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-18 22:36:55,176 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-18 22:37:13,610 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-18 22:37:13,613 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-18 22:37:25,936 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Session Started successfully
+INFO    2020-09-18 22:43:37,919 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-18 22:43:37,920 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-18 22:43:48,510 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Session Started successfully
+INFO    2020-09-18 22:44:49,997 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-18 22:44:49,998 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-18 22:45:00,143 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Session Started successfully
+INFO    2020-09-18 22:45:01,050 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Capturing Screenshot
+INFO    2020-09-18 22:48:03,620 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-18 22:48:03,634 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-18 22:48:21,067 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Session Started successfully
+INFO    2020-09-18 22:56:19,169 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-18 22:56:19,172 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-18 22:56:30,536 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Session Started successfully
+INFO    2020-09-18 22:56:31,301 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Capturing Screenshot
+INFO    2020-09-18 23:23:12,358 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-18 23:23:12,362 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-18 23:23:24,491 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Session Started successfully
+INFO    2020-09-18 23:24:33,110 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.EditText[contains(@text='rupees')]
+INFO    2020-09-18 23:26:05,774 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.EditText[contains(text()='rupees')]
+INFO    2020-09-18 23:27:45,586 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.EditText[contains(text(),'rupees')]
+WARN    2020-09-18 23:33:44,288 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Failed to scroll
+WARN    2020-09-18 23:34:18,737 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Failed to scroll
+INFO    2020-09-18 23:39:24,306 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[@resource-id='buyNow']
+INFO    2020-09-19 09:26:33,027 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-19 09:26:33,029 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-19 09:26:45,944 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Session Started successfully
+INFO    2020-09-19 09:29:09,682 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[@text,'Proceed to checkout']
+INFO    2020-09-19 09:39:33,776 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[@text,'HDFC Bank']
+INFO    2020-09-19 11:58:01,321 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-19 11:58:01,322 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-19 11:58:21,400 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-19 11:58:21,402 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-19 11:58:33,657 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Session Started successfully
+INFO    2020-09-19 12:02:54,292 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[@text='Select a time slot:']//android.view.View[1]
+INFO    2020-09-19 12:04:36,497 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[@text='Select a time slot:']/android.view.View[1]
+INFO    2020-09-19 12:08:05,770 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[contains(@resource-id='s-1600')]
+INFO    2020-09-19 12:31:25,397 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-19 12:31:25,400 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-19 12:31:30,029 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-19 12:31:30,034 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-19 12:31:46,141 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Session Started successfully
+INFO    2020-09-19 12:34:53,540 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[@text='Proceed to checkout']
+INFO    2020-09-19 12:37:42,804 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[@text='Continue']
+INFO    2020-09-19 12:38:21,896 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[@text,'Net Banking']
+INFO    2020-09-19 12:39:25,208 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[@text='Continue']
+INFO    2020-09-19 13:30:57,143 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-19 13:30:57,145 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-19 13:31:08,502 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Session Started successfully
+INFO    2020-09-19 13:35:59,763 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[@resource-id='AQdjx6gEAAAAAD5BelEAAAAAXUgAAAAAAAA=;ATS;0^0^INR;']
+WARN    2020-09-19 13:36:32,877 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Failed to scroll
+INFO    2020-09-19 13:38:21,196 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[@text='Continue']
+INFO    2020-09-19 13:51:53,638 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-19 13:51:53,639 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-19 13:52:04,036 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Session Started successfully
+INFO    2020-09-19 13:55:37,219 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[@text='Proceed to checkout']
+INFO    2020-09-19 13:56:31,514 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.id: com.amazon.mShop.android.shopping:id/chrome_action_bar_cart_image
+INFO    2020-09-19 13:59:44,909 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find elements :By.xpath: .//android.view.View[contains(@resource-id,'s-1600')]
+INFO    2020-09-19 14:01:24,664 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[@text='Continue']
+INFO    2020-09-19 14:10:45,939 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-19 14:10:45,940 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-19 14:10:56,578 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Session Started successfully
+INFO    2020-09-19 14:12:52,995 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[@text='Proceed to checkout']
+INFO    2020-09-19 14:13:51,491 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[@resource-id='AQdjx6gEAAAAAD5BelEAAAAAXUgAAAAAAAA=;ATS;0^0^INR;']
+WARN    2020-09-19 14:13:58,263 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Failed to scroll
+INFO    2020-09-19 14:14:31,577 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find elements :By.xpath: .//android.view.View[contains(@resource-id,'s-1600')]
+INFO    2020-09-19 14:15:05,300 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[@text='Continue']
+INFO    2020-09-19 14:21:50,015 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-19 14:21:50,016 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-19 14:22:00,550 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Session Started successfully
+INFO    2020-09-19 14:24:25,573 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[@text='Proceed to checkout']
+INFO    2020-09-19 14:26:03,378 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[@resource-id='AQdjx6gEAAAAAD5BelEAAAAAXUgAAAAAAAA=;ATS;0^0^INR;']
+WARN    2020-09-19 14:26:15,538 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Failed to scroll
+INFO    2020-09-19 14:26:47,287 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find elements :By.xpath: .//android.view.View[contains(@resource-id,'s-1600')]
+INFO    2020-09-19 14:27:20,286 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[@text='Continue']
+INFO    2020-09-19 14:30:32,430 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[@resource-id='pp-YpQ37j-453']
+INFO    2020-09-19 14:41:28,212 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[@text='Samsung 163 cm (65 Inches) Q Series 4K Ultra HD QLED Smart TV QA65Q6FNAK (Black) (2018 model)']
+INFO    2020-09-19 14:44:26,545 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-19 14:44:26,547 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-19 14:44:38,732 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Session Started successfully
+INFO    2020-09-19 14:47:29,738 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[@text='Proceed to checkout']
+INFO    2020-09-19 14:51:11,005 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[@resource-id='AQdjx6gEAAAAAD5BelEAAAAAXUgAAAAAAAA=;ATS;0^0^INR;']
+WARN    2020-09-19 14:51:18,514 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Failed to scroll
+INFO    2020-09-19 14:51:50,576 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find elements :By.xpath: .//android.view.View[contains(@resource-id,'s-1600')]
+INFO    2020-09-19 14:52:23,128 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[contains(@text,'Continue')]
+INFO    2020-09-19 15:03:27,371 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-19 15:03:27,372 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-19 15:03:38,449 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Session Started successfully
+INFO    2020-09-19 15:06:32,527 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//anroid.view.View[contains(@text,'Select a payment method')]
+INFO    2020-09-19 15:06:32,537 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Capturing Screenshot
+INFO    2020-09-19 16:10:09,881 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-19 16:10:09,882 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-19 16:10:20,855 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Session Started successfully
+INFO    2020-09-19 16:12:43,834 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[@text='Proceed to checkout']
+INFO    2020-09-19 16:21:42,487 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-19 16:21:42,488 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-19 16:22:09,907 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-19 16:22:09,909 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-19 16:22:21,003 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Session Started successfully
+INFO    2020-09-19 16:25:28,737 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Capturing Screenshot
+INFO    2020-09-19 16:26:40,070 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-19 16:26:40,071 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-19 16:26:50,461 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Session Started successfully
+INFO    2020-09-19 16:30:06,004 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[@text='Proceed to checkout']
+INFO    2020-09-19 16:30:53,928 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Capturing Screenshot
+INFO    2020-09-19 16:34:07,686 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-19 16:34:07,688 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-19 16:34:18,460 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Session Started successfully
+INFO    2020-09-19 16:36:12,572 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[@text='Proceed to checkout']
+INFO    2020-09-19 16:37:09,896 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[contains(@text,'Some items in your order are not deliverable to the selected address.')]
+INFO    2020-09-19 16:38:02,540 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//anroid.view.View[contains(@text,'Select a payment method')]
+INFO    2020-09-19 16:41:47,902 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[@resource-id='AQdjx6gEAAAAAD5BelEAAAAAXUgAAAAAAAA=;ATS;0^0^INR;']
+WARN    2020-09-19 16:41:59,243 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Failed to scroll
+INFO    2020-09-19 16:42:31,175 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find elements :By.xpath: .//android.view.View[contains(@resource-id,'s-1600')]
+INFO    2020-09-19 16:43:05,982 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[contains(@text,'Continue')]
+INFO    2020-09-19 16:43:40,855 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[@text='HDFC bank']
+INFO    2020-09-19 16:48:12,752 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[contains(@text,'rupees 2,09,900')]
+INFO    2020-09-19 16:49:51,646 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[contains(@text,'2,09,900')
+INFO    2020-09-19 16:50:34,779 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[contains(@text,'2,09,900.00')
+INFO    2020-09-19 16:50:38,495 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Capturing Screenshot
+INFO    2020-09-19 16:55:36,468 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-19 16:55:36,470 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-19 16:55:46,826 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Session Started successfully
+INFO    2020-09-19 16:57:41,990 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[@text='Proceed to checkout']
+INFO    2020-09-19 16:58:31,042 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[contains(@text,'Some items in your order are not deliverable to the selected address.')]
+INFO    2020-09-19 16:59:01,937 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//anroid.view.View[@text='Select a payment method']
+INFO    2020-09-19 16:59:32,379 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[@resource-id='AQdjx6gEAAAAAD5BelEAAAAAXUgAAAAAAAA=;ATS;0^0^INR;']
+WARN    2020-09-19 16:59:39,248 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Failed to scroll
+INFO    2020-09-19 17:00:11,645 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find elements :By.xpath: .//android.view.View[contains(@resource-id,'s-1600')]
+INFO    2020-09-19 17:00:44,779 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[contains(@text,'Continue')]
+INFO    2020-09-19 17:01:41,142 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[@text='rupees.00']
+INFO    2020-09-19 17:01:41,154 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Capturing Screenshot
+INFO    2020-09-19 17:02:19,771 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-19 17:02:19,772 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-19 17:02:30,756 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Session Started successfully
+INFO    2020-09-19 17:05:45,716 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[@text='Proceed to checkout']
+INFO    2020-09-19 17:06:19,624 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[@text='Proceed to Buy']
+INFO    2020-09-19 17:07:09,781 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[contains(@text,'Some items in your order are not deliverable to the selected address.')]
+INFO    2020-09-19 17:09:34,402 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//anroid.view.View[@text='Select a payment method']
+INFO    2020-09-19 17:10:15,707 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[@resource-id='AQdjx6gEAAAAAD5BelEAAAAAXUgAAAAAAAA=;ATS;0^0^INR;']
+WARN    2020-09-19 17:10:23,281 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Failed to scroll
+INFO    2020-09-19 17:15:05,449 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[@resource-id='AQdjx6gEAAAAAD5BelEAAAAAXUgAAAAAAAA=;ATS;0^0^INR;']
+WARN    2020-09-19 17:15:21,525 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Failed to scroll
+INFO    2020-09-19 17:16:21,507 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[@text='Please choose appointment times for your service order(s)']
+INFO    2020-09-19 17:17:34,722 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[contains(@text,'Continue')]
+INFO    2020-09-19 17:20:14,202 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[@text='Continue']
+INFO    2020-09-19 17:22:18,521 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[contains(@text,'Continue')]
+INFO    2020-09-19 17:27:50,318 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Reading property from local config.property file 
+INFO    2020-09-19 17:27:50,319 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Executing Android Test cases on RealDevices
+INFO    2020-09-19 17:28:00,781 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Session Started successfully
+INFO    2020-09-19 17:29:55,494 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[@text='Proceed to checkout']
+INFO    2020-09-19 17:30:46,023 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[contains(@text,'Some items in your order are not deliverable to the selected address.')]
+INFO    2020-09-19 17:31:22,660 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//anroid.view.View[@text='Select a payment method']
+INFO    2020-09-19 17:31:53,497 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[@resource-id='AQdjx6gEAAAAAD5BelEAAAAAXUgAAAAAAAA=;ATS;0^0^INR;']
+WARN    2020-09-19 17:32:00,006 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Failed to scroll
+INFO    2020-09-19 17:32:31,538 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find elements :By.xpath: .//android.view.View[contains(@resource-id,'s-1600')]
+INFO    2020-09-19 17:33:04,619 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.widget.Button[contains(@text,'Continue')]
+INFO    2020-09-19 17:33:52,286 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Unable to find element ::By.xpath: .//android.view.View[contains(@text,'Samsung 163 cm (65 Inches) 4K Ultra HD Smart LED TV UA65RU7100KXXL (Black) (2019 Model)')]
+INFO    2020-09-19 17:33:52,302 [main] com.telstra.amazon.mobile.drivercreation.MobileController  - Capturing Screenshot
