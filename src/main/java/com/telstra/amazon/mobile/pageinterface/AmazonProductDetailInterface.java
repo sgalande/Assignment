@@ -8,16 +8,9 @@ public interface AmazonProductDetailInterface {
 	void clickProceedToCheckout();
 	void clickDeliverToThisAddress();
 	void clickContinueButton();
-	void selectPaymentOptionAsNetBanking(String bankName);
-	boolean isPaymentScreenPresent();
-	void clickNetBanking();
-	void selectbankOption();
-	void selectBank(String bankName);
-	void selectDeliveryAndInstallationTimeSlots();
+	
 	void goToCart();
 	void clickProceedToBuy();
-	boolean isAppointmentTimeTextPreset();
 	boolean isProductnamePresentOnCheckoutPage(String productName);
 	boolean isProductPricePresentOnCheckoutPage(String productPrice);
-	boolean isItemDeliverableToAddress();
 }

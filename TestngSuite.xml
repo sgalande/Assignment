@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="Product Checkout" verbose="1" >
+<listeners>  
+<listener class-name="com.telstra.amazon.mobile.utility.ReportGenerator"/>  
+</listeners> 
+  <test name="Verify functionality of Amazon Product Checkout" >
+    <classes>
+       <class name="com.telstra.amazon.mobile.login.testcase.AmazonLogin" />
+      <class name="com.telstra.amazon.mobile.productcheckout.testcase.ProductCheckout" />
+    </classes>
+  </test>
+</suite>

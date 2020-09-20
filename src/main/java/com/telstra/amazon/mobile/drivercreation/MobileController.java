@@ -11,11 +11,13 @@ import java.time.Duration;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Properties;
+import java.util.Set;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Dimension;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -315,5 +317,46 @@ public class MobileController extends DriverHelperFactory {
 		
 		action.tap(TapOptions.tapOptions().withElement(ElementOption.element(element))).perform();
 
+	}
+	
+	@Override
+	public void runAppInBackground(int seconds) {
+		logger.info("Running App in background");
+		driver.runAppInBackground(Duration.ofSeconds(seconds));
+
+	}
+
+	@Override
+	public void switchToContent(String ContentName) {
+		driver.context(ContentName);
+		
+	}
+
+	@Override
+	public Set<String> getContext() {
+		Set<String> contextNames = driver.getContextHandles();
+		for (String contextName : contextNames) {
+		    System.out.println(contextName); 
+		}
+		return contextNames;
+		
+	}
+
+	@SuppressWarnings("rawtypes")
+	@Override
+	public void swipeVertical_bottomToTop() {
+		try {
+			Dimension size;
+			size = driver.manage().window().getSize();
+			int starty = (int) (size.height * 0.80);
+			int endy = (int) (size.height * 0.20);
+			int startx = size.width / 2;
+		
+				new TouchAction(driver).press(point(startx, starty)).waitAction(waitOptions(Duration.ofSeconds(2))).moveTo(point(startx, endy)).release().perform();
+				
+		} catch (Exception e) {
+			logger.info("Unable to swipe from bottom to top");
+		}
+		
 	}
 }

@@ -31,6 +31,15 @@ public class ReportGenerator extends TestBase implements ISuiteListener,ITestLis
 	public void onTestSuccess(ITestResult result) {
 		
 		getExtentTest().log(Status.PASS, MarkupHelper.createLabel(result.getMethod().getMethodName() +" is successful",ExtentColor.GREEN));
+		try {
+			
+			String screenshotName = result.getMethod().getMethodName();
+			DriverHelperFactory.getDriver().captureScreenShot(result.getMethod().getMethodName());  
+			getExtentTest().log(Status.PASS, result.getMethod().getMethodName(), MediaEntityBuilder.createScreenCaptureFromPath(screenshotName+".png").build());
+		} catch (IOException e) {
+			
+			e.printStackTrace();
+		}
 	}
 
 	/**
