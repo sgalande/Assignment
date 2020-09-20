@@ -8,7 +8,7 @@ import com.telstra.amazon.mobile.drivercreation.TestBase;
 public class ProductCheckout extends TestBase {
 	
 	@Test(description = "To verify product checkout functionality of application")
-	public void verifycheckout() {	
+	public void verifyRandomProductcheckout() {	
 	
 		pageFactory.getAmazonSearchPage().clickSearchTextBox();
 		pageFactory.getAmazonSearchPage().searchForProduct("65-inch tv");
@@ -31,8 +31,6 @@ public class ProductCheckout extends TestBase {
 			Assert.assertTrue(pageFactory.getAmazonProductDetailPage().isProductPricePresentOnCheckoutPage(productPrice),
 					"product price is not present on checkout page");
 		}
-		
-		
 	}
-
+	
 }

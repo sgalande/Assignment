@@ -8,6 +8,8 @@ public interface AmazonLoginPageInterface {
 	void clickContinueButton();
 	void clickLoginButton();
 	void doLogin(String username, String password);
+	void clickNavigationPannel();
+	boolean isuserLoggedIn();
 	
 
 }

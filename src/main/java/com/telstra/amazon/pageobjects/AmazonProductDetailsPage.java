@@ -19,7 +19,6 @@ public class AmazonProductDetailsPage implements AmazonProductDetailInterface {
 	private static By PROCEED_TO_BUY = By.xpath(".//android.widget.Button[@text='Proceed to Buy']");
 	
 	
-	
 	@Override
 	public String getProductName() {
 		String productname = "";

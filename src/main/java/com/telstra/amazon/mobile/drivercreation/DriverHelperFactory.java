@@ -1,8 +1,6 @@
 package com.telstra.amazon.mobile.drivercreation;
 
 import java.util.List;
-import java.util.Set;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.WebElement;
@@ -45,14 +43,8 @@ public abstract class DriverHelperFactory {
 
 	public abstract Dimension getScreenDimension();
 
-	public abstract void tapOnElement(WebElement element);
-	
-	public abstract void runAppInBackground(int seconds);
-	
-	public abstract void switchToContent(String ContentName);
-	
-	public abstract Set<String>getContext();
-	
 	public abstract void swipeVertical_bottomToTop();
+	
+	public abstract void pressDeviceBackButton();
 	
 }

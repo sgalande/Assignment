@@ -1,10 +1,6 @@
 package com.telstra.amazon.pageobjects;
 
-import java.util.List;
-
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
-
 import com.telstra.amazon.mobile.drivercreation.DriverHelperFactory;
 import com.telstra.amazon.mobile.pageinterface.AmazonPaymentpageInterfacee;
 
@@ -12,7 +8,6 @@ public class AmazonPaymentPage implements AmazonPaymentpageInterfacee {
 	
 	private static By NET_BANKING = By.xpath(".//android.view.View[@text='Net Banking']");
 	private static By CHOOSE_AN_BANK_OPTION = By.xpath(".//android.widget.Spinner[@text='Choose an Option']");
-///	private static By SELECT_TIME_SLOT = By.xpath(".//android.view.View[@resource-id='AQdjx6gEAAAAAD5BelEAAAAAXUgAAAAAAAA=;ATS;0^0^INR;']");
 	private static By SELECT_PAYMENT_SCREEN = By.xpath(".//android.webkit.WebView[@text='Select a Payment Method']");
 	private AmazonSelectDeliveryTimeSlot selectTimeSlot = new AmazonSelectDeliveryTimeSlot();
 	private AmazonProductDetailsPage detailpage = new AmazonProductDetailsPage();

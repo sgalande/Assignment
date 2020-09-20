@@ -6,7 +6,7 @@
 </listeners> 
   <test name="Verify functionality of Amazon Product Checkout" >
     <classes>
-       <class name="com.telstra.amazon.mobile.login.testcase.AmazonLogin" />
+      <class name="com.telstra.amazon.mobile.login.testcase.AmazonLogin" />
       <class name="com.telstra.amazon.mobile.productcheckout.testcase.ProductCheckout" />
     </classes>
   </test>
